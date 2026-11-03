@@ -1,4 +1,7 @@
-# Experiment 2: Image Acquisition Using Web Camera
+# Experiment 2: Record Image Acquisition Using Web Camera
+
+### Name: Parani Bala M
+### Reg.no.: 212224230192
 
 ## Aim
 
@@ -73,6 +76,9 @@ plt.axis("off")
 plt.show()
 ```
 
+### Output:
+<img width="731" height="567" alt="image" src="https://github.com/user-attachments/assets/3235e4b1-7c9c-42e6-99e7-18129d278dc1" />
+
 ### 4. Display Consecutive Webcam Frames
 
 ```python
@@ -95,6 +101,10 @@ for i in range(50):
 
 cap.release()
 ```
+
+### Output:
+<img width="717" height="540" alt="image" src="https://github.com/user-attachments/assets/8b9a51e2-3ef3-4a71-ad5d-b1100754171f" />
+
 
 ### 5. Resize Webcam Frames
 
@@ -121,6 +131,9 @@ for i in range(50):
 
 cap.release()
 ```
+### Output:
+<img width="382" height="550" alt="image" src="https://github.com/user-attachments/assets/8aa95150-9e8f-4bb0-b826-e1dd05f13c4a" />
+
 
 ### 6. Rotate Webcam Frames
 
@@ -150,6 +163,8 @@ for i in range(50):
 
 cap.release()
 ```
+### Output:
+<img width="405" height="536" alt="image" src="https://github.com/user-attachments/assets/c18e82a0-48bb-443e-aba7-0f5588fed725" />
 
 ## Result
 
